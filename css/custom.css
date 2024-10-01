@@ -1,0 +1,48 @@
+.logo__mark {
+    font-size: 22px;
+}
+
+body {
+    // linea
+
+    background: linear-gradient(222, #232425, red) !important;
+    color: #deeef1;
+}
+
+mark {
+    background: linear-gradient(-100deg, hsla(220, 89%, 64%, 0.87), hsl(183, 93%, 32%) 95%, hsla(48,92%,75%,.1));
+    border-radius: 0.8em 0.04em;
+    padding: .3rem 1rem;
+
+}
+
+.logo__cursor {
+    background: #06979f;
+    height: 1.4rem;
+}
+
+.menu__inner {
+    font-size: 20px;
+}
+
+.theme-toggle {
+    font-size: 20px;
+}
+
+main h1 {
+    font-size: 49px;
+    margin-bottom: .3em;
+}
+
+main p {
+    font-size: 21px;
+}
+
+main div {
+    font-size: 30px;
+}
+
+::selection {
+    background: #06979f;
+    color: white;
+}
